@@ -17,6 +17,7 @@ namespace _06.Rectangle_Position
                 && bottomIsCorrect
                 && topIsCorrect;
         }
+
         public static void Main()
         {
             var firstRectangleDetails = Console.ReadLine()
